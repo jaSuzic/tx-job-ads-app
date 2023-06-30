@@ -1,0 +1,520 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "2",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript",
+        "jasmine"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "3",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "4",
+      "title": "Java developer",
+      "description": "We are looking for senior java developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "5",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend",
+        "some skill"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "6",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "7",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "8",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "9",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "10",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "11",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "12",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "13",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "14",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "17",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "18",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "19",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "20",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "21",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend",
+        "some new skill"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "22",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "23",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "26",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "27",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "28",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "29",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "30",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "31",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "32",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "35",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "36",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "37",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "38",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "39",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend",
+        "some newest skill"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "40",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "41",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "44",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "45",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "46",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "47",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "48",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "49",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "50",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "61",
+      "title": "Frontend developer",
+      "description": "We are looking for medior to senior front-end developer. We are using React v17 and next.js v12. Experience in Next.js is not necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "react",
+        "next.js"
+      ],
+      "status": "archived"
+    },
+    {
+      "id": "62",
+      "title": "Angular developer",
+      "description": "We are looking for senior front-end developer (Angular). We are using Angular v15. Experience in RxJs is required and with NgRx isn't necessary but would be a plus. Work from the office is possible, but WFH is also ok. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "frontend",
+        "angular",
+        "rxjs",
+        "typescript"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "63",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "64",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "65",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend",
+        "some new skill"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "66",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "67",
+      "title": "Backend developer",
+      "description": "We are looking for senior backend developer. We are using java v18. Work from the office is recommended at least for first 2 months and after that period switching to hybrid is possible. Contact us for information about benefits (there are lots of them) and any additional info via contact form at jobs.txservices.rs",
+      "skills": [
+        "java",
+        "backend"
+      ],
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.form {
+    width: 80%;
+    margin: 0 auto;
+    min-width: 250px;
+
+    .input-field {
+        width: 100%;
+    }
+
+    .buttons-wrapper {
+        width: 100%;
+        margin-top: 2em;
+        display: flex;
+
+        button {
+            margin-right: 2em;
+        }
+    }
+}

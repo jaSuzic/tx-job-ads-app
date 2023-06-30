@@ -1,0 +1,91 @@
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list-job-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-title {
+    margin: 1em 1.5em 0 0;
+}
+
+.filter-status {
+    margin-top: 1em;
+}
+
+.list-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.pagination-wrapper {
+    display: flex;
+    align-items: center;
+
+    button {
+        margin-left: .5em;
+    }
+
+    .paginaton-item-current-page {
+        background-color: transparent;
+        font-size: large;
+        margin: 0 .2em;
+    }
+}
+
+.filter-buttons {
+    display: none;
+}
+
+app-item-job-ad {
+    display: flex;
+}
+
+@media screen and (max-width: 767px) {
+    app-item-job-ad {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    app-item-job-ad {
+        width: 47%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    app-item-job-ad {
+        width: 30%;
+    }
+  }
+
+@media screen and (min-width: 1550px) {
+    app-item-job-ad {
+        width: 21%;
+    }
+  }
+
+@media screen and (max-width: 820px) {
+    .list-job-header {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .filter-buttons {
+        display: block;
+    }
+
+    .filters-wrapper {
+        display: none;
+    }
+    
+}

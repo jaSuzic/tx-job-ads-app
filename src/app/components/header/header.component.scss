@@ -1,33 +1,32 @@
-.header-background {
-    background-color: darkgray;
-    display: block;
-    width: 100%;
-}
-
-.global-width {
+header {
     margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    margin-bottom: 1em;
 }
 
 @media screen and (max-width: 767px) {
-    .global-width {
+    header {
         width: 100%;
     }
 }
 
 @media screen and (min-width: 768px) {
-    .global-width {
+    header {
         width: 90%;
     }
 }
 
 @media screen and (min-width: 1024px) {
-    .global-width {
+    header {
         width: 80%;
     }
 }
 
 @media screen and (min-width: 1550px) {
-    .global-width {
+    header {
         width: 70%;
     }
 }

@@ -1,0 +1,48 @@
+<form [formGroup]="newAdForm"
+      class="form">
+    <mat-form-field class="input-field">
+        <mat-label>Job title</mat-label>
+        <input matInput
+               formControlName="title"
+               placeholder="Title">
+    </mat-form-field>
+
+    <mat-form-field class="input-field">
+        <mat-label>Job description</mat-label>
+        <textarea matInput
+                  formControlName="description"
+                  rows="4"></textarea>
+    </mat-form-field>
+
+    <mat-form-field class="input-field">
+        <mat-label>Required skills</mat-label>
+        <mat-chip-grid #chipGrid
+                       formControlName="skills">
+            <mat-chip-row *ngFor="let skill of skills"
+                          (removed)="remove(skill)"
+                          (edited)="edit(skill, $event)">
+                {{skill}}
+                <button matChipRemove>
+                    <mat-icon>cancel</mat-icon>
+                </button>
+            </mat-chip-row>
+            <input placeholder="New skill..."
+                   [matChipInputFor]="chipGrid"
+                   [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+                   [matChipInputAddOnBlur]="true"
+                   (matChipInputTokenEnd)="add($event)" />
+        </mat-chip-grid>
+    </mat-form-field>
+    <mat-slide-toggle formControlName="status"
+                      class="input-field">Publish ad</mat-slide-toggle>
+    <div class="buttons-wrapper">
+        <button mat-stroked-button
+                color="primary"
+                type="button"
+                (click)="saveAd()"
+                [disabled]="newAdForm.invalid">Save ad</button>
+        <button mat-stroked-button
+                color="warn"
+                (click)="goBack()">Go back</button>
+    </div>
+</form>

@@ -1,0 +1,74 @@
+<div class="wrapper">
+    <div class="list-job-header">
+        <button mat-icon-button
+                class="filter-buttons"
+                (click)="onFilterButtonClick()">
+            <mat-icon>filter_list</mat-icon>
+        </button>
+        <div class="filters-wrapper"
+             #filters>
+            <mat-form-field class="filter-title">
+                <mat-icon matPrefix>search</mat-icon>
+                <mat-label>Search by title</mat-label>
+                <input matInput
+                       #titleSearch
+                       [(ngModel)]="title"
+                       placeholder="Title (only full match)"
+                       name="title"
+                       (keydown.enter)="titleSearch.blur()"
+                       (blur)="filterResult($event)">
+            </mat-form-field>
+            <mat-form-field class="filter-status">
+                <mat-label>Filter by status</mat-label>
+                <mat-select matNativeControl
+                            [(ngModel)]="status"
+                            name="status"
+                            (selectionChange)="filterResultByStatus()">
+                    <mat-option>No filters</mat-option>
+                    <mat-option value="archived">Archived</mat-option>
+                    <mat-option value="draft">Draft</mat-option>
+                    <mat-option value="published">Published</mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
+        <div class="pagination-wrapper">
+            <button mat-mini-fab
+                    color="primary"
+                    title="First page"
+                    [disabled]="paginationLinks.first === currentPage"
+                    (click)="changePage('first')">
+                <mat-icon>first_page</mat-icon>
+            </button>
+            <button mat-mini-fab
+                    color="primary"
+                    title="Previous page"
+                    [disabled]="currentPage === '1'"
+                    (click)="changePage('prev')">
+                <mat-icon>arrow_back</mat-icon>
+            </button>
+            <button mat-mini-fab
+                    class="paginaton-item-current-page"
+                    disabled>
+                {{ currentPage }} / {{ paginationLinks.last }}
+            </button>
+            <button mat-mini-fab
+                    color="primary"
+                    title="Next page"
+                    [disabled]="paginationLinks.next === '' || paginationLinks.next === currentPage"
+                    (click)="changePage('next')">
+                <mat-icon>arrow_forward</mat-icon>
+            </button>
+            <button mat-mini-fab
+                    color="primary"
+                    title="Last page"
+                    [disabled]="paginationLinks.last === currentPage"
+                    (click)="changePage('last')">
+                <mat-icon>last_page</mat-icon>
+            </button>
+        </div>
+    </div>
+    <div class="list-wrapper">
+        <app-item-job-ad *ngFor="let ad of adsList"
+                         [jobAd]="ad"></app-item-job-ad>
+    </div>
+</div>

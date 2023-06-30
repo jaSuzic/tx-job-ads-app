@@ -1,0 +1,23 @@
+<mat-card *ngIf="jobAd">
+    <div *ngIf="jobAd.status === 'draft'"
+        class="ribbon draft"><span class="draft">{{ jobAd.status }}</span></div>
+    <div *ngIf="jobAd.status === 'archived'" 
+        class="ribbon archived"><span class="archived">{{ jobAd.status }}</span></div>
+    <mat-card-header>
+        <mat-card-title>{{jobAd.title}}</mat-card-title>
+        <mat-card-subtitle>{{jobAd.skills.join(', ')}}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-actions align="end">
+        <button mat-stroked-button
+                type="button"
+                [routerLink]="['/edit-ad', jobAd.id]"
+                [queryParams]="queryMap">Edit</button>
+        <button mat-stroked-button
+                *ngIf="jobAd.status==='draft'"
+                (click)="changeStatus('published')">Publish</button>
+        <button mat-stroked-button
+                *ngIf="jobAd.status==='published'"
+                (click)="changeStatus('archived')">Archive</button>
+    </mat-card-actions>
+    <mat-card-content>{{jobAd.description}}</mat-card-content>
+</mat-card>
